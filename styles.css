@@ -1,0 +1,22 @@
+.col-sm-12 {
+  background-color: blue;
+  height: 100px;
+}
+
+.col-sm-3 {
+  background-color: red;
+  height: 100px;
+  margin: 5px;
+}
+
+.col-sm-6 {
+  background-color: orange;
+  height: 100px;
+  margin: 5px;
+}
+
+.col-sm-9 {
+  background-color: green;
+  height: 100px;
+  margin: 5px;
+}
